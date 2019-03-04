@@ -8,5 +8,7 @@
 # kubernetes-webhook-util
 Kubernetes webhook utils
 
+**This repo has been permanently moved to [kmodules.xyz/webhook-runtime](https://github.com/kmodules/webhook-runtime) for Kubernetes 1.13+**
+
 ### Acknowledgement
 https://github.com/openshift/generic-admission-server
